@@ -44,7 +44,7 @@ source . install/setup.bash
 To run the Launch file for obstacle avoidance node,run:
 ```
 
-ros2 launch ros2_roomba world.launch.py
+ros2 launch ros2_roomba_obstacle_avoidance world.launch.py
 ```
 
 ### Edit the ros_bag.launch for different topics
